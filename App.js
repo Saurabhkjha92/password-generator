@@ -1,7 +1,7 @@
 
 import { useState } from 'react';
 import './App.css';
-import { LC, NM, SM, UC } from './DATA/Digits';
+import { LC, NM, SM, UC } from './Digits';
 
 function App() {
 
